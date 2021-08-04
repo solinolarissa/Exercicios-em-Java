@@ -1,0 +1,7 @@
+package com.larissa.enumeradores_4;
+
+public enum TipoDocumento {
+	
+	CPF, CNPJ; 
+
+}
